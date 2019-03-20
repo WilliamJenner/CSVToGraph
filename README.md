@@ -1,5 +1,7 @@
 # CSVToGraph
 
+Run graph_generator.py to create the graphs.
+
 Converts a generated CSV file into a graph.
 
 For task 6 of my Application Programming unit, we compared collection types. This generated custom formatted CSV files.
